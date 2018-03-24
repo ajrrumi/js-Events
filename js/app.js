@@ -11,7 +11,6 @@ function moreContent(){
 pElem.innerHTML = bacon;
 }
 
-
 //2. HTTP
 /*Create a function named `lessContent` that will initiate the `Show Less` link after clicking on it.
 
